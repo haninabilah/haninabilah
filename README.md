@@ -1,12 +1,14 @@
 # 🎓 My Academic E-Portfolio
 
 ## (a) Profile
-Graphic & Multimedia Software Student | C++ Developer | Photography
+Graphic & Multimedia Software Student | C++ Developer | Java Developer | Photography
 I love bringing creative design and technical ideas together. I enjoy exploring how visual software works behind the scenes and capturing moments of the world through my camera. I’m passionate about photography and creating tools that make visual storytelling more engaging and fun.
 
 ## (b) Core
-- **Education:** Universiti Teknologi Malaysia, Bachelor in Computer Science (Graphics & Multimedia Software)
-- **Position:** First year student
+- **Education:** 1.Smk Tan Sri Osman Mohd Sa'at (SPM: 6A, 1B, 3C)
+-                2.Johor Matriculation College (CGPA: 3.67)
+                 3.Universiti Teknologi Malaysia, Bachelor in Computer Science (Graphics & Multimedia Software)
+- **Position:** First year student degree
 - **Skills:** C++, Photoshop, Lightroom, Figma, Canva, Capcut
 
 ## (c) Recommended
