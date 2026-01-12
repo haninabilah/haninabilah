@@ -2,6 +2,7 @@
 
 ## My Profile
 Graphic & Multimedia Software Student | C++ Developer | Java Developer | Photography
+
 I love bringing creative design and technical ideas together. I enjoy exploring how visual software works behind the scenes and capturing moments of the world through my camera. I’m passionate about photography and creating tools that make visual storytelling more engaging and fun.
 
 ## Academic
