@@ -17,10 +17,12 @@ I love bringing creative design and technical ideas together. I enjoy exploring 
 ## 📂 Course Assignments & Reflections
 
 ### 🎙️ Industry Talks & Visits
-* [Industry Talk 1: Reflection & Report](./industry-talk-1)
+* [![Watch the Video](https://img.shields.io/badge/YouTube-Play_Video-red?style=for-the-badge&logo=youtube)]((https://youtu.be/C7K5OJSuCSs))
 * [Industry Talk 2: Reflection & Report](./industry-talk-2)
 * [Industrial Visit: [Company Name]](./industry-visit)
 
 ### 🛠️ Lab & Design Work
 * [PC Assemble Lab: Process & Reflection](./pc-assemble)
 * [Design Thinking: Low-Fidelity Prototype](./design-thinking)
+
+
