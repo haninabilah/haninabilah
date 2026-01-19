@@ -24,3 +24,14 @@ Graphic & Multimedia Software Student | C++ Developer | Java Developer | Photogr
 [![CapCut](https://img.shields.io/badge/CapCut-%23000000.svg?style=for-the-badge&logo=CapCut&logoColor=white)](https://www.capcut.com/)
 - **Courses:** Programming Technique 1, Discrete Structure, Digital Logic, Techologies and Information, Integrity and Anti-Corruption Course
 - **Certificates:** Celik AI Robokidz Certificate, Coursera C++ Certificate
+
+## Projects (Current)
+- **Project: Industrial Engagement Portfolio (GitHub)**
+
+   Developed a comprehensive portfolio documenting reflections on large-scale software systems and industrial digital transformation.
+  Analyzed the integration of SAP in global supply chains (PPG Industries).
+  Evaluated the role of Agile iteration in multimedia development (Serunai Commerce).
+
+- **Project: UTMDigital Open Day Exploration**
+
+  Investigated hybrid event execution and real-world digital transformation within a university ecosystem.
